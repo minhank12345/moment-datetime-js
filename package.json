@@ -1,6 +1,6 @@
 {
   "name": "moment-datetime-js",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "private": false,
   "repository": "https://github.com/minhank12345/moment-datetime-js.git",
   "main": "index.js",

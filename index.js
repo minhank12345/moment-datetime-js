@@ -24,7 +24,7 @@ function subtractTimeFormat(time, amount, unit) {
     return time.subtract(amount, unit).format();
 }
 
-module.export = {
+module.exports = {
     utcDateTimeFormat,
     utcDateTime,
     addTime,
