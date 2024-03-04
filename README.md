@@ -6,4 +6,6 @@ The [Moment datetime js](https://github.com/minhank12345/moment-datetime-js.git)
 
 To install this package, you can run:
 
-`npm i moment-datetime-js` or `yarn add moment-datetime-js`
+`npm i moment-datetime-js` 
+OR
+ `yarn add moment-datetime-js`
