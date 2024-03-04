@@ -1,6 +1,6 @@
 {
   "name": "moment-datetime-js",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "private": false,
   "description": "Moment datetime js modular utilities.",
   "keywords": "modules, stdlib, util",
