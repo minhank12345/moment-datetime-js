@@ -1,14 +1,16 @@
 {
   "name": "moment-datetime-js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "private": false,
+  "description": "Moment datetime js modular utilities.",
+  "keywords": "modules, stdlib, util",
   "repository": "https://github.com/minhank12345/moment-datetime-js.git",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "minhank12345",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/minhank12345/moment-datetime-js/issues"
   },
