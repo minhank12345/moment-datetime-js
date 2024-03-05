@@ -1,6 +1,6 @@
 {
   "name": "moment-datetime-js",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "private": false,
   "description": "Moment datetime js modular utilities.",
   "keywords": "modules, stdlib, util",
@@ -14,8 +14,5 @@
   "bugs": {
     "url": "https://github.com/minhank12345/moment-datetime-js/issues"
   },
-  "homepage": "https://github.com/minhank12345/moment-datetime-js#readme",
-  "dependencies": {
-    "moment": "^2.30.1"
-  }
+  "homepage": "https://github.com/minhank12345/moment-datetime-js#readme"
 }

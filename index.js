@@ -1,4 +1,4 @@
-const moment = require('moment');
+const moment = require('./libs/moment');
 
 function utcDateTimeFormat (){
     return moment.utc().format();
